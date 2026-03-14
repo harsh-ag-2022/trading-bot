@@ -31,10 +31,6 @@ htmlcov/
 *.swo
 *~
 
-# Logs
-*.log
-trading_bot.log
-
 # OS
 .DS_Store
 Thumbs.db

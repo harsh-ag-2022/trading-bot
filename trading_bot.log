@@ -1,0 +1,17 @@
+2026-03-14 17:21:54,273 - TradingBot - INFO - --- Starting New Order Request ---
+2026-03-14 17:21:54,273 - TradingBot - INFO - Initializing Binance Testnet Client...
+2026-03-14 17:21:56,835 - TradingBot - INFO - Successfully connected to Binance Futures Testnet.
+2026-03-14 17:21:56,835 - TradingBot - INFO - Requesting MARKET order: BUY 0.01 BTCUSDT at price None
+2026-03-14 17:21:57,016 - TradingBot - ERROR - Binance API Error: 400 - Timestamp for this request is outside of the recvWindow.
+2026-03-14 17:23:26,559 - TradingBot - INFO - --- Starting New Order Request ---
+2026-03-14 17:23:26,559 - TradingBot - INFO - Initializing Binance Testnet Client...
+2026-03-14 17:23:28,779 - TradingBot - INFO - Successfully connected to Binance Futures Testnet.
+2026-03-14 17:23:28,780 - TradingBot - INFO - Requesting MARKET order: BUY 0.01 BTCUSDT at price None
+2026-03-14 17:23:29,096 - TradingBot - INFO - Order successful!
+2026-03-14 17:23:29,096 - TradingBot - INFO - Details: OrderID: 12808134680, Status: NEW, ExecutedQty: 0.000
+2026-03-14 17:23:54,183 - TradingBot - INFO - --- Starting New Order Request ---
+2026-03-14 17:23:54,183 - TradingBot - INFO - Initializing Binance Testnet Client...
+2026-03-14 17:23:57,382 - TradingBot - INFO - Successfully connected to Binance Futures Testnet.
+2026-03-14 17:23:57,382 - TradingBot - INFO - Requesting LIMIT order: SELL 0.01 BTCUSDT at price 90000.0
+2026-03-14 17:23:57,908 - TradingBot - INFO - Order successful!
+2026-03-14 17:23:57,908 - TradingBot - INFO - Details: OrderID: 12808141902, Status: NEW, ExecutedQty: 0.000
